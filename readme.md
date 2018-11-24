@@ -2,4 +2,4 @@
 
 *La Historia de un Hacker Excepcional.
 
-**Antonio Fernández**
+**Antonio Fernández**, Larry Plotter fan.
