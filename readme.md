@@ -2,4 +2,4 @@
 
 *La Historia de un Hacker Excepcional.
 
-**Antonio Fernández**, Git lover.
+**Antonio Fernández**, Git lover & Larry Plotter fan.
